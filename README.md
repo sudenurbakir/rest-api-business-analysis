@@ -2,11 +2,12 @@
 
 ## Proje Hakkında
 
-Bu proje, bir **İş Analistinin (Business Analyst)** REST API geliştirme süreçlerinde hazırladığı analiz ve dokümantasyon çalışmalarını örneklemek amacıyla oluşturulmuştur.
+Bu proje, bir İş Analistinin REST API geliştirme süreçlerinde hazırladığı analiz ve dokümantasyon çalışmalarını örneklemek amacıyla oluşturulmuştur.
 
-Proje kapsamında herhangi bir yazılım geliştirme çalışması bulunmamaktadır. Amaç; iş birimleri ile yazılım ekipleri arasında köprü görevi gören İş Analistinin hazırladığı analiz dokümanlarını, API gereksinimlerini ve teknik dokümantasyonu profesyonel bir şekilde sunmaktır.
+Proje, örnek bir **E-Ticaret Sipariş Yönetim Sistemi** senaryosu üzerinden hazırlanmıştır. Amaç; iş gereksinimlerini analiz etmek, REST API servislerini dokümante etmek ve yazılım geliştirme ekiplerinin kullanabileceği profesyonel analiz dokümanları oluşturmaktır.
 
-Bu çalışma, örnek bir **E-Ticaret Sipariş Yönetim Sistemi** senaryosu üzerinden hazırlanmıştır.
+Bu repository; gereksinim analizi, API tasarımı, OpenAPI (Swagger) dokümantasyonu, iş kuralları ve test senaryoları gibi bir İş Analistinin hazırladığı çıktıları içermektedir.
+
 
 ---
 
